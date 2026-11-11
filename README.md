@@ -19,10 +19,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gomolemo-b-a85159214"><img src="https://img.shields.io/badge/LinkedIn-gomolemo--b-8A4257?style=for-the-badge&logo=linkedin&logoColor=F6E8E8" alt="LinkedIn"/></a>
-<a href="mailto:gomolizandrea@gmail.com"><img src="https://img.shields.io/badge/Email-gomolizandrea@gmail.com-7A5563?style=for-the-badge&logo=gmail&logoColor=F6E8E8" alt="Email"/></a>
-<a href="https://gomolemo001.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-gomolemo001.github.io-7A4A5E?style=for-the-badge&logo=githubpages&logoColor=F6E8E8" alt="Portfolio"/></a>
-<a href="https://www.credly.com/users/gomolemo-baloyi"><img src="https://img.shields.io/badge/Credly-verified_badges-7E6189?style=for-the-badge&logo=credly&logoColor=F6E8E8" alt="Credly"/></a>
+<a href="https://www.linkedin.com/in/gomolemo-b-a85159214"><img src="./assets/badge-linkedin.svg" alt="LinkedIn: gomolemo-b"/></a>
+<br/>
+<a href="mailto:gomolizandrea@gmail.com"><img src="./assets/badge-email.svg" alt="Email: gomolizandrea@gmail.com"/></a>
+<br/>
+<a href="https://gomolemo001.github.io/portfolio"><img src="./assets/badge-portfolio.svg" alt="Portfolio: gomolemo001.github.io"/></a>
+<br/>
+<a href="https://www.credly.com/users/gomolemo-baloyi"><img src="./assets/badge-credly.svg" alt="Credly: verified badges"/></a>
 
 <br/><br/>
 
