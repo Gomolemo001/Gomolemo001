@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,php,js,html,css,java,cpp,git,github,aws&theme=light" alt="Python, MySQL, PHP, JavaScript, HTML, CSS, Java, C++, Git, GitHub, AWS" />
+<img src="https://skillicons.dev/icons?i=python,mysql,php,js,html,css,java,cpp,git,github,aws" alt="Python, MySQL, PHP, JavaScript, HTML, CSS, Java, C++, Git, GitHub, AWS" />
 
 <br/><br/>
 
