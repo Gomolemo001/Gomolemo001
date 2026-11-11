@@ -1,197 +1,149 @@
 <!--
-  GitHub profile README for Gomolemo Baloyi
+  The six SVG banners in ./assets cycle through four palettes on a 44 second loop,
+  holding each one for about 9 seconds and melting into the next:
 
-  To update: open github.com/Gomolemo001/Gomolemo001, click README.md,
-  then the pencil icon. Select all, paste, Commit changes.
+    1. Garden     burgundy + olive on ivory      (your portfolio palette)
+    2. Plum       champagne + blush on deep plum
+    3. Charcoal   rose gold on charcoal
+    4. Editorial  deep plum on warm paper
 
-  Palette:
-    7B2233  burgundy     primary accent
-    6E7F4F  olive        secondary accent
-    E4C3C6  blush        gradient highlight
-    F4E2E3  petal        soft fills
-    312329  plum black   text
-    FBF6F4  blush ivory  background
+  Two land light and two land dark, so the page reads well whichever GitHub
+  theme a visitor is using. If you ever want it to settle on one instead of
+  cycling, say which and I'll freeze it.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:E4C3C6,100:7B2233&height=190&section=header&text=Gomolemo%20Baloyi&fontSize=46&fontColor=FBF6F4&fontAlignY=36&desc=Cloud%20·%20AI%20·%20Business%20Analysis&descAlignY=58&descSize=17&animation=fadeIn" alt="Gomolemo Baloyi. Cloud, AI, Business Analysis." width="100%" />
+<img src="./assets/header.svg" alt="Gomolemo Baloyi - Cloud, AI and Business Analysis" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=27&duration=3200&pause=900&color=7B2233&center=true&vCenter=true&width=680&lines=BSc+Computer+Science+%7C+University+of+the+Witwatersrand;AWS+%26+SAP+certified%2C+10+verified+credentials;Building+toward+Solutions+Architect" alt="BSc Computer Science. AWS and SAP certified with ten verified credentials. Building toward Solutions Architect." />
+<img src="./assets/typing.svg" alt="BSc Computer Science in Cloud and AI. AWS and SAP certified with ten credentials. Building toward Solutions Architect." width="640"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gomolemo-b-a85159214">
-  <img src="https://img.shields.io/badge/LinkedIn-7B2233?style=for-the-badge&logo=linkedin&logoColor=FBF6F4" alt="LinkedIn" />
-</a>
-<a href="mailto:gomolizandrea@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6E7F4F?style=for-the-badge&logo=gmail&logoColor=FBF6F4" alt="Email" />
-</a>
-<a href="https://gomolemo001.github.io/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-5E1726?style=for-the-badge&logo=safari&logoColor=FBF6F4" alt="Portfolio" />
-</a>
-<a href="https://www.credly.com/users/gomolemo-baloyi">
-  <img src="https://img.shields.io/badge/Credly-4A5634?style=for-the-badge&logo=credly&logoColor=FBF6F4" alt="Credly" />
-</a>
+<a href="https://www.linkedin.com/in/gomolemo-b-a85159214"><img src="https://img.shields.io/badge/LinkedIn-gomolemo--b-7B2233?style=for-the-badge&logo=linkedin&logoColor=F6E8E8" alt="LinkedIn"/></a>
+<a href="mailto:gomolizandrea@gmail.com"><img src="https://img.shields.io/badge/Email-gomolizandrea@gmail.com-6E7F4F?style=for-the-badge&logo=gmail&logoColor=F6E8E8" alt="Email"/></a>
+<a href="https://gomolemo001.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-gomolemo001.github.io-5E1726?style=for-the-badge&logo=githubpages&logoColor=F6E8E8" alt="Portfolio"/></a>
+<a href="https://www.credly.com/users/gomolemo-baloyi"><img src="https://img.shields.io/badge/Credly-verified_badges-4A5634?style=for-the-badge&logo=credly&logoColor=F6E8E8" alt="Credly"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Verified%20credentials-10-FBF6F4?style=flat-square&labelColor=312329&color=7B2233" alt="10 verified credentials" />
-<img src="https://img.shields.io/badge/AWS%20programmes-2-FBF6F4?style=flat-square&labelColor=312329&color=6E7F4F" alt="2 AWS programmes" />
-<img src="https://img.shields.io/badge/SAP%20certifications-4-FBF6F4?style=flat-square&labelColor=312329&color=7B2233" alt="4 SAP certifications" />
-<img src="https://img.shields.io/badge/Years%20tutoring-4-FBF6F4?style=flat-square&labelColor=312329&color=6E7F4F" alt="4 years tutoring" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍%20Johannesburg,%20South%20Africa-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" alt="Johannesburg, South Africa" />
-<img src="https://img.shields.io/badge/🌿%20Open%20to%20remote%20internships%20%26%20vacation%20work-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" alt="Open to remote internships and vacation work" />
+<img src="./assets/stats.svg" alt="10 verified credentials, 2 AWS programmes, 4 SAP certifications, 4 years tutoring" width="100%"/>
 
 </div>
 
-<br/>
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🌸 About me
 
-- 🎓 Computer science student, majoring in **computer science, computer applications and organisational psychology**
-- ☁️ Completed the **AWS Agentic AI Business Professional** nanodegree, selected for it through the AWS AI & ML Scholars programme
+I'm a **computer science** student in **Johannesburg**, majoring in computer science, computer applications and organisational psychology. The combination is deliberate. Most systems fail at the point where they meet the people meant to use them, and I want to be useful on both sides of that line.
+
+- 🎓 **BSc Computer Science**, University of the Witwatersrand, majoring in computer science, computer applications and organisational psychology
+- ☁️ Completed the **AWS Agentic AI Business Professional** nanodegree, selected for it through the **AWS AI & ML Scholars** programme
 - 🔷 Four **SAP** certifications spanning business AI, autonomous enterprise concepts, technology consulting and business analysis
-- 📋 **Google Project Management** certified, with a Wharton business foundations specialisation
+- 📋 **Google Project Management** certified, with a **Wharton** business foundations specialisation
 - 📚 Tutoring mathematics, science and English since 2022, which is four years of making technical ideas land
 - 🎯 Currently building toward **AWS Solutions Architect Associate**
+- 📫 Best way to reach me: [email](mailto:gomolizandrea@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gomolemo-b-a85159214)
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
-
-## 🛠️ Skills &amp; tools
+## 🧰 Skills &amp; tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,php,js,html,css,java,cpp,git,github,aws" alt="Python, MySQL, PHP, JavaScript, HTML, CSS, Java, C++, Git, GitHub, AWS" />
+<img src="./assets/skills.svg" alt="Cloud and data: Amazon QuickSight, Quick Chat, Quick Research, SPICE, business intelligence. Business analysis: SAP Signavio, SAP Analytics Cloud, requirements documentation. Delivery: project management, Agile, stakeholder and change management." width="100%"/>
 
-<br/><br/>
-
-Amazon QuickSight · Quick Chat · Quick Research · SPICE · Business intelligence<br/>
-SAP Signavio · SAP Analytics Cloud · Requirements documentation · Process modelling<br/>
-Project management · Agile · Stakeholder and change management
+<img src="https://skillicons.dev/icons?i=python,mysql,php,js,html,css,java,cpp,git,github,aws&perline=11" alt="Tech stack icons"/>
 
 </div>
 
-<br/>
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🏅 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Agentic%20AI%20Business%20Professional-7B2233?style=flat-square&logoColor=FBF6F4" alt="AWS Agentic AI Business Professional Nanodegree" />
-<img src="https://img.shields.io/badge/AWS-AI%20%26%20ML%20Scholars%202026-7B2233?style=flat-square&logoColor=FBF6F4" alt="AWS AI and ML Scholars 2026" />
+<img src="https://img.shields.io/badge/AWS-Agentic_AI_Business_Professional-7B2233?style=flat-square&logoColor=F6E8E8" alt="AWS Agentic AI Business Professional Nanodegree"/>
+<img src="https://img.shields.io/badge/AWS-AI_%26_ML_Scholars_2026-7B2233?style=flat-square&logoColor=F6E8E8" alt="AWS AI and ML Scholars 2026"/>
 <br/>
-<img src="https://img.shields.io/badge/SAP-Technology%20Consultant-5E1726?style=flat-square&logo=sap&logoColor=FBF6F4" alt="SAP Technology Consultant Professional Certificate" />
-<img src="https://img.shields.io/badge/SAP-Business%20Analyst%20Professional-5E1726?style=flat-square&logo=sap&logoColor=FBF6F4" alt="SAP Business Analyst Professional Certificate" />
+<img src="https://img.shields.io/badge/SAP-Technology_Consultant-5E1726?style=flat-square&logo=sap&logoColor=F6E8E8" alt="SAP Technology Consultant Professional Certificate"/>
+<img src="https://img.shields.io/badge/SAP-Business_Analyst_Professional-5E1726?style=flat-square&logo=sap&logoColor=F6E8E8" alt="SAP Business Analyst Professional Certificate"/>
 <br/>
-<img src="https://img.shields.io/badge/SAP-AI%20in%20the%20Autonomous%20Enterprise-5E1726?style=flat-square&logo=sap&logoColor=FBF6F4" alt="SAP Positioning AI in the Autonomous Enterprise" />
-<img src="https://img.shields.io/badge/SAP-The%20Autonomous%20Enterprise-5E1726?style=flat-square&logo=sap&logoColor=FBF6F4" alt="SAP Positioning the Autonomous Enterprise" />
+<img src="https://img.shields.io/badge/SAP-AI_in_the_Autonomous_Enterprise-5E1726?style=flat-square&logo=sap&logoColor=F6E8E8" alt="SAP Positioning AI in the Autonomous Enterprise"/>
+<img src="https://img.shields.io/badge/SAP-The_Autonomous_Enterprise-5E1726?style=flat-square&logo=sap&logoColor=F6E8E8" alt="SAP Positioning the Autonomous Enterprise"/>
 <br/>
-<img src="https://img.shields.io/badge/Google-Project%20Management-6E7F4F?style=flat-square&logo=google&logoColor=FBF6F4" alt="Google Project Management Professional Certificate" />
-<img src="https://img.shields.io/badge/Wharton-Business%20Foundations-6E7F4F?style=flat-square&logo=coursera&logoColor=FBF6F4" alt="Wharton Business Foundations Specialization" />
+<img src="https://img.shields.io/badge/Google-Project_Management-6E7F4F?style=flat-square&logo=google&logoColor=F6E8E8" alt="Google Project Management Professional Certificate"/>
+<img src="https://img.shields.io/badge/Wharton-Business_Foundations-6E7F4F?style=flat-square&logo=coursera&logoColor=F6E8E8" alt="Wharton Business Foundations Specialization"/>
 <br/>
-<img src="https://img.shields.io/badge/ESSEC-Negotiation%20%26%20Conflict%20Resolution-4A5634?style=flat-square&logo=coursera&logoColor=FBF6F4" alt="ESSEC Negotiation, Mediation and Conflict Resolution" />
-<img src="https://img.shields.io/badge/CU%20Boulder-Teamwork%20Skills-4A5634?style=flat-square&logo=coursera&logoColor=FBF6F4" alt="University of Colorado Boulder Teamwork Skills" />
+<img src="https://img.shields.io/badge/ESSEC-Negotiation_%26_Conflict_Resolution-4A5634?style=flat-square&logo=coursera&logoColor=F6E8E8" alt="ESSEC Negotiation, Mediation and Conflict Resolution"/>
+<img src="https://img.shields.io/badge/CU_Boulder-Teamwork_Skills-4A5634?style=flat-square&logo=coursera&logoColor=F6E8E8" alt="University of Colorado Boulder Teamwork Skills"/>
 
-<br/><br/>
-
-<strong>All ten verifiable on <a href="https://www.credly.com/users/gomolemo-baloyi">Credly</a></strong>
+<sub>All ten verifiable on <a href="https://www.credly.com/users/gomolemo-baloyi">Credly</a>.</sub>
 
 </div>
 
-<br/>
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🌷 Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Market Intelligence Agent
-
-A no-code AI agent built in **Amazon QuickSuite**, using a Kaggle dataset as its knowledge base. Used Quick Research for market analysis, produced a leadership brief from the output, and evaluated the agent's reliability before relying on it.
-
-<img src="https://img.shields.io/badge/QuickSuite-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-<img src="https://img.shields.io/badge/Quick%20Chat-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-<img src="https://img.shields.io/badge/AI%20Agents-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Revenue Intelligence Dashboard
-
-A business intelligence project unifying CRM, marketing and support data into a single revenue view. Built on AWS with **QuickSight and SPICE**, delivered with build logs and a written executive report. Passed mentor review.
-
-<img src="https://img.shields.io/badge/AWS-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-<img src="https://img.shields.io/badge/QuickSight-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-<img src="https://img.shields.io/badge/Reporting-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ Restaurant Order Tracking App
-
-A university group build. I owned the **MySQL database layer**, designing the schema behind order state changes, and implemented **user authentication in PHP**, alongside contributing to the front-end styling.
-
-<img src="https://img.shields.io/badge/MySQL-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-<img src="https://img.shields.io/badge/PHP-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-<img src="https://img.shields.io/badge/Teamwork-F4E2E3?style=flat-square&labelColor=F4E2E3&color=7B2233" />
-
-<!-- TODO: once the code is pushed, add a link to the repository here -->
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-
-A single-file, dependency-free site: responsive to mobile, keyboard accessible, reduced-motion aware, deployed on GitHub Pages.
-
-<img src="https://img.shields.io/badge/HTML-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-<img src="https://img.shields.io/badge/CSS-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-<img src="https://img.shields.io/badge/Accessibility-F4E2E3?style=flat-square&labelColor=F4E2E3&color=6E7F4F" />
-
-<a href="https://gomolemo001.github.io/portfolio"><strong>Visit the site</strong></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Market Intelligence Agent</h3>
+      <p>A no-code AI agent built in Amazon QuickSuite, using a Kaggle dataset as its knowledge base. Used Quick Research for market analysis, produced a leadership brief from the output, and evaluated the agent's reliability before relying on it.</p>
+      <p><img src="https://img.shields.io/badge/QuickSuite-7B2233?style=flat-square" alt="QuickSuite"/> <img src="https://img.shields.io/badge/Quick_Chat-7B2233?style=flat-square" alt="Quick Chat"/> <img src="https://img.shields.io/badge/AI_Agents-7B2233?style=flat-square" alt="AI Agents"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Revenue Intelligence Dashboard</h3>
+      <p>A business intelligence project unifying CRM, marketing and support data into a single revenue view. Built on AWS with QuickSight and SPICE, delivered with build logs and a written executive report. Passed mentor review.</p>
+      <p><img src="https://img.shields.io/badge/AWS-6E7F4F?style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/QuickSight-6E7F4F?style=flat-square" alt="QuickSight"/> <img src="https://img.shields.io/badge/Reporting-6E7F4F?style=flat-square" alt="Reporting"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Restaurant Order Tracking App</h3>
+      <p>A university group build. I owned the MySQL database layer, designing the schema behind order state changes, and implemented user authentication in PHP, alongside contributing to the front-end styling.</p>
+      <p><img src="https://img.shields.io/badge/MySQL-7B2233?style=flat-square&logo=mysql&logoColor=F6E8E8" alt="MySQL"/> <img src="https://img.shields.io/badge/PHP-7B2233?style=flat-square&logo=php&logoColor=F6E8E8" alt="PHP"/> <img src="https://img.shields.io/badge/Teamwork-7B2233?style=flat-square" alt="Teamwork"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>A single-file, dependency-free site: responsive to mobile, keyboard accessible, reduced-motion aware, deployed on GitHub Pages.</p>
+      <p><img src="https://img.shields.io/badge/HTML-6E7F4F?style=flat-square&logo=html5&logoColor=F6E8E8" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-6E7F4F?style=flat-square&logo=css3&logoColor=F6E8E8" alt="CSS"/> <img src="https://img.shields.io/badge/Accessibility-6E7F4F?style=flat-square" alt="Accessibility"/></p>
+      <a href="https://gomolemo001.github.io/portfolio"><b>Visit the site</b></a>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub stats
 
 <!--
-  If these cards look thin, delete this whole section. They read live from
-  your account, so they only flatter you once there are repositories with
-  real commit history behind them.
+  If these look thin, delete this section. They read live from your account,
+  so they only flatter you once there are repositories with commit history.
 -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gomolemo001&show_icons=true&hide_border=true&bg_color=FBF6F4&title_color=7B2233&icon_color=6E7F4F&text_color=312329&ring_color=7B2233" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomolemo001&layout=compact&hide_border=true&bg_color=FBF6F4&title_color=7B2233&text_color=312329" height="165" alt="Most used languages" />
+<a href="https://github.com/Gomolemo001">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gomolemo001&show_icons=true&hide_border=true&bg_color=2A1C26&title_color=E8C9A0&text_color=F6E8E8&icon_color=D9A7AE&ring_color=E8C9A0&border_radius=18"/>
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gomolemo001&show_icons=true&hide_border=true&bg_color=FCF8F6&title_color=7B2233&text_color=312329&icon_color=6E7F4F&ring_color=7B2233&border_radius=18"/>
+</picture>
+</a>
+<a href="https://github.com/Gomolemo001?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomolemo001&layout=compact&hide_border=true&bg_color=2A1C26&title_color=E8C9A0&text_color=F6E8E8&border_radius=18"/>
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomolemo001&layout=compact&hide_border=true&bg_color=FCF8F6&title_color=7B2233&text_color=312329&border_radius=18"/>
+</picture>
+</a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B2233,100:E4C3C6&height=130&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=FBF6F4&fontAlignY=70&animation=fadeIn" alt="Thanks for stopping by" width="100%" />
+<img src="./assets/footer.svg" alt="Thanks for stopping by. Open to remote internships and vacation work." width="100%"/>
 
 </div>
